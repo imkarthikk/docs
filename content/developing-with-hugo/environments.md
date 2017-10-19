@@ -25,15 +25,13 @@ This allows you to set up conditional code in your layouts in order to handle pa
 
 This variable is accessible in your templates with the `getenv` function:
 
-<span style="font-size: 1rem;">&nbsp;</span>`{{ getenv "ENV" }}`<span style="font-size: 1rem;">.</span>
+`{{ getenv "HUGO_ENV" }}`
 
 The values are:
 
-```
-Local environment: undefined
-Staging environment: "staging"
-Production environment: "production"
-
-```
+    Local environment: undefined
+    Staging environment: "staging"
+    Production environment: "production"
+    
 
 **Note:** in Hugo the local environment variable is undefined because Hugo does not set this environment variable by default.
