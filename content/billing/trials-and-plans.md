@@ -9,6 +9,8 @@ menu:
     weight: 1
 
 ---
+
+
 Forestry’s billing works on a per-site basis. This means that your *plan* applies to the site you added it to.
 
 For information on our plans, see our [plans page](https://forestry.io/plans/).
