@@ -9,8 +9,6 @@ menu:
     weight: 1
 
 ---
-
-
 Forestry’s billing works on a per-site basis. This means that your *plan* applies to the site you added it to.
 
 For information on our plans, see our [plans page](https://forestry.io/plans/).
@@ -23,7 +21,7 @@ For each user, there are two types of sites:
 
 * **Collaborative Sites:** sites that you’ve been invited to collaborate on.
 
-## How Trials Work
+## How Trials Work  
 
 Every account is entitled to 14 free trial days on any plan of their choosing.
 
