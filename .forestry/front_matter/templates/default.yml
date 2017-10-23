@@ -1,7 +1,9 @@
 ---
 pages:
-- site-configuration/media-uploads.md
+- troubleshooting/assets-not-loading.md
+- other/multilingual-hugo-support.md
 - developing-with-hugo/environments.md
+- site-configuration/media-uploads.md
 hide_body: false
 fields:
 - name: title
