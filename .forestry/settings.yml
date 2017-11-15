@@ -7,10 +7,10 @@ auto_deploy: true
 admin_path: "/admin"
 webhook_url: 
 sections:
-  faq:
-    default_front_matter_template: faq
   troubleshooting:
     default_front_matter_template: troubleshooting
   other:
     default_front_matter_template: other
+  faq:
+    default_front_matter_template: faq
 version: 0.24.1
