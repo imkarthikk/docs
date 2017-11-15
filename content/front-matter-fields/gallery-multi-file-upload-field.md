@@ -10,7 +10,7 @@ weight: 10
 config:
   code_samples:
     yaml: |
-      type: list
+      type: image_gallery
       name: [String]
       label: [String]
       description: [String]
