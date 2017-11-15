@@ -9,7 +9,7 @@ image: "/docs/assets/images/Image-File%20Upload%20Preview.jpg"
 weight: 9
 config:
   code_samples:
-    yaml: "type: list\nname: [String]\nlabel: [String]\ndescription: [String]\nhidden:
+    yaml: "type: file\nname: [String]\nlabel: [String]\ndescription: [String]\nhidden:
       [true|false]\nconfig:\n  maxSize: [Number] \n"
 options_image: "/docs/assets/images/Image-File%20Upload%20Options.jpg"
 options:
