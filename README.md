@@ -121,3 +121,4 @@ you can find packages you want to use on www.npmjs.com. Then install them in one
   - A list of js files that will be compiled into bundles by webpack. This is useful if you want to
   have different js files for different pages. Other js files will only be compiled if they need to be
   because of require calls.
+  
