@@ -5,7 +5,7 @@ body_file_url_template: "/docs/assets/images"
 new_page_extension: html
 auto_deploy: true
 admin_path: "/admin"
-webhook_url: 
+webhook_url: https://webhook.site/60513003-8dda-4718-87d3-c928774c44ed
 sections:
   troubleshooting:
     default_front_matter_template: troubleshooting
